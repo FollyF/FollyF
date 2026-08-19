@@ -16,7 +16,7 @@ Ingénieur logiciel · Enseignant de mathématiques depuis 2017 · Basé à Ouag
 
 ## 🧭 À propos
 
-Je conçois des applications web et mobiles de bout en bout.De la modélisation
+Je conçois des applications web et mobiles de bout en bout. De la modélisation
 de base de données au déploiement en production, avec un intérêt particulier
 pour les problématiques concrètes du contexte ouest-africain : mobile money,
 marchés publics, accès à l'emploi.
